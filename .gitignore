@@ -1,5 +1,6 @@
 .vs/
 Library/
 Temp/
+ProjectSettings/
 UnityShaderProject.CSharp.csproj
 UnityShaderProject.sln
